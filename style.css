@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Buttons {
+    margin-top: 20%;
+    justify-items: center;
+}
+
+.button{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 2px solid black ;
+    margin: 10px;
+    cursor: pointer;
+}
+h1{
+    margin: 10px;
+}
+h2{
+    margin: 10px;
+}
+
+#red{
+    background-color: red;
+}
+#black{
+    background-color: black;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+
+.home{
+    border: none;
+    margin-top: 50px;
+    background-color: rgb(221, 193, 151);
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: larger;
+    cursor: pointer;
+}
